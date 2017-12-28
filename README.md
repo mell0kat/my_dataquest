@@ -1,2 +1,2 @@
 # my_dataquest
-Learnings data science and analytics with Python
+Learning data science and analytics with Python
